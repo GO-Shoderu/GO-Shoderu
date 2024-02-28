@@ -5,7 +5,8 @@
 <h3>👨‍💻 Software Development Projects:</h3>
 
 - <b>Portfolio Website</b>
-  - 🔭 I’m currently working on it <b><i>(Coming soon)</b></i>
+  - [Visit here:](https://github.com/GO-Shoderu/go-sh.dev/tree/feature/go-sh.dev-static) <b><i>(Currently active)</b></i>
+  - 🔭 I’m currently working on Future release <b><i>(Coming soon)</b></i>
 - <b>Twitter Summerizer (Now X Summerizer)</b>
   - [Visit here:](https://github.com/GO-Shoderu/Twitter-Summariser) <b><i>(No longer active)</b></i>
 - <b>Music Box</b>
