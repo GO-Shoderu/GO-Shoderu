@@ -27,7 +27,7 @@
 - <b>Email Timestamp Analysis</b>
   - [Visit here](https://github.com/GO-Shoderu/Email-Timestamp-Analysis)
  
-<h3>👨‍💻 Some Client Projects:</h3>
+<h3>👨‍💻 Featured Projects:</h3>
 
 - <b>Okumbe Consulting</b>
   - [Visit here](https://okumbeconsulting.co.za/)
