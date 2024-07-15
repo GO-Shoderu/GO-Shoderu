@@ -25,23 +25,23 @@
 <h3>👨‍💻 Data Science Projects:</h3>
 
 - <b>Email Timestamp Analysis</b>
-  - [Visit here:](https://github.com/GO-Shoderu/Email-Timestamp-Analysis)
+  - [Visit here](https://github.com/GO-Shoderu/Email-Timestamp-Analysis)
  
 <h3>👨‍💻 Some Client Projects:</h3>
 
 - <b>Okumbe Consulting</b>
-  - [Visit here:](https://okumbeconsulting.co.za/)
-  - [Repository here:](https://github.com/GO-Shoderu/Okumbe-Consulting)
+  - [Visit here](https://okumbeconsulting.co.za/)
+  - [Repository here](https://github.com/GO-Shoderu/Okumbe-Consulting)
 
 - <b>AISIRI Wines</b>
   - <i>Coming Soon....</i>
 
 - <b> RichRand </b>
-  - [Visit here:](https://richrand.co.za/)
+  - [Visit here](https://richrand.co.za/)
   - <i> Coming Soon...</i>
  
 <h3>Published Research paper at ICCWS conference</h3>
-  - 🔭 [Read here: ](https://www.researchgate.net/publication/379221398_A_Privacy-Compliant_Process_for_Digital_Forensics_Readiness)
+  - 🔭 [Read here](https://www.researchgate.net/publication/379221398_A_Privacy-Compliant_Process_for_Digital_Forensics_Readiness)
   
 <h2> 🤳 Connect with me:</h2>
 
