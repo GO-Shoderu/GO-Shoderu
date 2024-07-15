@@ -27,6 +27,19 @@
 - <b>Email Timestamp Analysis</b>
   - [Visit here:](https://github.com/GO-Shoderu/Email-Timestamp-Analysis)
  
+<h3>👨‍💻 Some Client Projects:</h3>
+
+- <b>Okumbe Consulting</b>
+  - [Visit here:](https://okumbeconsulting.co.za/)
+  - [Repository here:](https://github.com/GO-Shoderu/Okumbe-Consulting)
+
+- <b>AISIRI Wines</b>
+ - <i>Coming Soon....</i>
+
+- <b> RichRand </b>
+ - [Visit here:](https://richrand.co.za/)
+ - <i> Coming Soon...</i>
+ 
 <h3>Research paper will be posted after ICCWS conference</h3>
   - 🔭 Will be posted after presentation at the conference <b><i>(Coming soon)</b></i>
   
