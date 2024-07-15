@@ -40,8 +40,8 @@
   - [Visit here:](https://richrand.co.za/)
   - <i> Coming Soon...</i>
  
-<h3>Research paper will be posted after ICCWS conference</h3>
-  - 🔭 Will be posted after presentation at the conference <b><i>(Coming soon)</b></i>
+<h3>Published Research paper at ICCWS conference</h3>
+  - 🔭 [Read here: ](https://www.researchgate.net/publication/379221398_A_Privacy-Compliant_Process_for_Digital_Forensics_Readiness)
   
 <h2> 🤳 Connect with me:</h2>
 
