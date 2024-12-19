@@ -34,7 +34,8 @@
   - [Repository here](https://github.com/GO-Shoderu/Okumbe-Consulting)
 
 - <b>AISIRI Wines</b>
-  - <i>Coming Soon....</i>
+  - [Visit here](https://www.aisirigroup.co.za/)
+  - [Repository here](https://github.com/GO-Shoderu/Aisiri-Group)
 
 - <b> RichRand </b>
   - [Visit here](https://richrand.co.za/)
